@@ -1,0 +1,6 @@
+{
+  "name": "MADAR (مدار)",
+  "description": "منصة مدار - أول منصة SaaS متخصصة لمكاتب ووسطاء الزواج الشرعي في العالم العربي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

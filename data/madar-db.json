@@ -1,0 +1,1667 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "openId": null,
+      "name": "مدير منصة مدار",
+      "email": "admin@madar.sa",
+      "passwordHash": "60b41f6e90c845b3f37adb6a0049963d:70c57602077e528e046b2234901a9394062fd1af1369f735c6d5d81b4c99b1e7ba1d45af76d5422fb6dd51b76d06bb2f03a98f8c1f2771320e792bc552072e6f",
+      "role": "admin",
+      "emailVerifiedAt": "2026-09-20T01:47:26.806Z",
+      "deletedAt": null,
+      "createdAt": "2026-09-20T01:47:26.806Z",
+      "updatedAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 2,
+      "openId": null,
+      "name": "الشيخ عبدالرحمن التميمي (مكتب التوفيق)",
+      "email": "owner@altawfeeq.sa",
+      "passwordHash": "447d444b3c711853a69a9c22276cd24a:674d7fbd7e7a1896cc9ef683209b4b646f476788b194291ce3c5cb98584230126c5c85bba13b9afb037d02b6d6acff52224e614fbd788e1379961ca0d8453830",
+      "role": "owner",
+      "emailVerifiedAt": "2026-09-20T01:47:26.806Z",
+      "deletedAt": null,
+      "createdAt": "2026-09-20T01:47:26.806Z",
+      "updatedAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 3,
+      "name": "مكتب الوفاق للزواج الشرعي",
+      "email": "idlebxx2@gmail.com",
+      "passwordHash": "ce1c53f2e88cdb74179a2d1820aba9c5:fc866e9f399bbad0bca21bf4942a4146f0fb568d92846feb2ceda92e12be3e619a9a44de844810049c4530b48439b38de0a8d17397b836bb6f44bb7874db7a39",
+      "role": "owner",
+      "createdAt": "2026-09-20T01:57:21.429Z",
+      "updatedAt": "2026-09-20T01:57:21.429Z"
+    },
+    {
+      "id": 4,
+      "name": "مكتب الوفاق للزواج الشرعي",
+      "email": "idlebx2@gmail.com",
+      "passwordHash": "8a33e984f2d5f0ed04f8309da49e99cc:45e7d7292f25d3ac8ff98415129dea6302871ed9aa6af74d02efa2d63e36cd9b86c4b41268e886d37811a8571a2abecdf4885ac454380f36033896223ac6784e",
+      "role": "owner",
+      "createdAt": "2026-09-20T01:57:38.982Z",
+      "updatedAt": "2026-09-20T01:57:38.982Z"
+    },
+    {
+      "id": 5,
+      "name": "مكتب الوفاق للزواج الشرعي",
+      "email": "idlettttbx2@gmail.com",
+      "passwordHash": "796777098a66bc6f5e824bf9c5bcd900:09777f6130711540e16ba25475196b635b00e62b792615ea1fddbb0641e7f50195c618ce80b45b6cfbfe5a46d6bd0951d927a8cde0f7251cb20246f043a14cf1",
+      "role": "owner",
+      "createdAt": "2026-09-20T01:58:15.509Z",
+      "updatedAt": "2026-09-20T01:58:15.509Z"
+    },
+    {
+      "id": 6,
+      "name": "hdhghgvb",
+      "email": "idlebxxx2@gmail.com",
+      "passwordHash": "e7d7c0c4afc7fed715b30a52705d7ac0:2983f1d539fe2e80a38c18a1d672cc053c198b4e077a623a9657a4c71d52b134c1a73f89037d9001602d55debf53a6ef00238373f142802517f73427f4df0840",
+      "role": "owner",
+      "createdAt": "2026-09-20T01:58:47.660Z",
+      "updatedAt": "2026-09-20T01:58:47.660Z"
+    },
+    {
+      "id": 7,
+      "name": "hfhjfj",
+      "email": "idlebxxxx2@gmail.com",
+      "passwordHash": "ef85c0dd94860904466c5057c7136d84:52567484ef981e93066fdcbb4c01cf8dcea48b59f872731cfe1de181a6bdfb7b78cdbab36ff4496a7d0bee1a1e514547a797442061e11ab25fc183dc2714b327",
+      "role": "owner",
+      "phone": "",
+      "city": "الرياض",
+      "createdAt": "2026-09-20T02:05:39.492Z",
+      "updatedAt": "2026-09-20T02:05:39.492Z"
+    },
+    {
+      "id": 9991,
+      "email": "ledger_user@madar.test",
+      "passwordHash": "hash",
+      "name": "مستخدم تجريبي للمحفظة",
+      "role": "user",
+      "isApproved": true,
+      "createdAt": "2026-09-22T01:03:59.060Z"
+    },
+    {
+      "id": 9992,
+      "email": "ledger_admin@madar.test",
+      "passwordHash": "hash",
+      "name": "مدير مالي تجريبي",
+      "role": "admin",
+      "isApproved": true,
+      "createdAt": "2026-09-22T01:03:59.060Z"
+    }
+  ],
+  "sites": [
+    {
+      "id": 1,
+      "userId": 2,
+      "subdomain": "altawfeeq",
+      "customDomain": "altawfeeq.sa",
+      "name": "مكتب التوفيق للزواج الشرعي",
+      "tagline": "بناء الأسر المسلمة على المودة والرحمة والسرية التامة وفق الكتاب والسنة",
+      "template": "traditional",
+      "status": "active",
+      "officePhone": "+966501234567",
+      "officeAddress": "الرياض - حي الملز - طريق صلاح الدين الأيوبي - برج المودة، الدور الرابع",
+      "officeWorkingHours": "السبت - الخميس: من ٩:٠٠ صباحاً حتى ٩:٠٠ مساءً",
+      "officeLicenseNumber": "ترخيص وزارة العدل رقم: 441098/ز",
+      "officeYearsOfExperience": 14,
+      "officeAbout": "تأسس مكتب التوفيق ليكون صرحاً آمناً للراغبين في الزواج الشرعي المعتمد، بفريق متخصص من الاستشاريين الأسريين والشرعيين نضمن لك السرية التامة ودقة التوافق القيمي والاجتماعي.",
+      "quranVerse": "﴿ وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ﴾ [الروم: 21]",
+      "hadithText": "قال رسول الله ﷺ: «إذا أتاكم من ترضون دينه وخلقه فزوجوه، إلا تفعلوا تكن فتنة في الأرض وفساد عريض»",
+      "successRate": 94,
+      "totalMarriages": 480,
+      "primaryColor": "#D4AF37",
+      "logoUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?w=300&q=80",
+      "coverUrl": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=1200&q=80",
+      "whatsappNumber": "+966501234567",
+      "emailContact": "info@altawfeeq.sa",
+      "createdAt": "2026-09-20T01:47:26.806Z",
+      "updatedAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 2,
+      "status": "pending",
+      "ownerName": "الشيخ عبدالمحسن السبيعي",
+      "ownerEmail": "idlebxxxx2@gmail.com",
+      "ownerPhone": "+966 55 987 6543",
+      "successRate": 90,
+      "totalMarriages": 15,
+      "officeYearsOfExperience": 8,
+      "name": "مكتب الوفاق للزواج الشرعي",
+      "subdomain": "alwefaq",
+      "template": "traditional",
+      "tagline": "توفيق مبارك وخصوصية تامة وفق كتاب الله وسنة رسوله",
+      "officePhone": "+966 55 987 6543",
+      "officeAddress": "المملكة العربية السعودية — الرياض — طريق الملك فهد",
+      "officeLicenseNumber": "445210/ز",
+      "officeAbout": "مكتب وساطة زواج معتمد يضم نخبة من المستشارين الاجتماعيين والشرعيين لمساعدة الراغبين والراغبات في إيجاد الشريك المناسب بأعلى معايير الأمانة والسرية.",
+      "whatsappNumber": "+966 55 987 6543",
+      "userId": 7,
+      "createdAt": "2026-09-20T02:05:57.171Z",
+      "updatedAt": "2026-09-20T02:05:57.171Z"
+    },
+    {
+      "id": 3,
+      "status": "pending",
+      "ownerName": "د. سارة بنت عبدالعزيز الشريف",
+      "ownerEmail": "dr.sarah@mawaddah.org",
+      "ownerPhone": "+966 54 498 7654",
+      "successRate": 92,
+      "totalMarriages": 42,
+      "officeYearsOfExperience": 11,
+      "name": "مكتب المودة للاستشارات والوساطة الأسرية",
+      "subdomain": "mawaddah",
+      "template": "luxury",
+      "tagline": "سرية تامة وتوافق اجتماعي وقيمي بأعلى المعايير الأسرية",
+      "officePhone": "+966 54 498 7654",
+      "officeAddress": "الرياض - حي الياسمين - طريق الثمامة - مجمع الأعمال، الدور الثاني",
+      "officeLicenseNumber": "ترخيص أسري معتمد: 1010892341",
+      "officeAbout": "صرح استشاري وأسري متخصص في التوافق بين الأسر الكريمة وفق ضوابط الشريعة المطهرة وكامل الرعاية والسرية للمتقدمين والمتقدمات.",
+      "whatsappNumber": "+966 54 498 7654",
+      "userId": 3,
+      "createdAt": "2026-09-20T02:10:12.000Z",
+      "updatedAt": "2026-09-20T02:10:12.000Z"
+    },
+    {
+      "id": 4,
+      "status": "pending",
+      "ownerName": "الشيخ فهد بن ناصر الدوسري",
+      "ownerEmail": "albarakah.bureau@gmail.com",
+      "ownerPhone": "+966 50 998 8776",
+      "successRate": 95,
+      "totalMarriages": 78,
+      "officeYearsOfExperience": 14,
+      "name": "مكتب البركة للتوفيق الشرعي",
+      "subdomain": "albarakah",
+      "template": "islamic",
+      "tagline": "تيسير الزواج وإعفاف الشباب والفتيات وفق هدي النبوة",
+      "officePhone": "+966 50 998 8776",
+      "officeAddress": "المنطقة الشرقية - الدمام - حي الشاطئ - برج الفنار، الدور الخامس",
+      "officeLicenseNumber": "ترخيص وزارة العدل رقم: 558912/ز",
+      "officeAbout": "فريق معتمد من المأذونين والاستشاريين المعتمدين لربط الأسر بالحلال وتيسير سبل العفاف والستر.",
+      "whatsappNumber": "+966 50 998 8776",
+      "userId": 4,
+      "createdAt": "2026-09-20T02:15:45.000Z",
+      "updatedAt": "2026-09-20T02:15:45.000Z"
+    }
+  ],
+  "siteVersions": [
+    {
+      "id": 1,
+      "siteId": 1,
+      "versionNumber": 1,
+      "configData": {
+        "template": "traditional"
+      },
+      "publishedAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 2,
+      "siteId": 2,
+      "versionNumber": 1,
+      "configData": {
+        "template": "traditional"
+      },
+      "publishedAt": "2026-09-20T02:05:57.171Z"
+    }
+  ],
+  "siteVisits": [
+    {
+      "id": 1,
+      "siteId": 1,
+      "ipHash": "9f83c182",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0",
+      "country": "SA",
+      "visitedAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 2,
+      "siteId": 1,
+      "ipHash": "72.251.221.8, 169.254.169.126",
+      "path": "/site/altawfeeq",
+      "referrer": "https://aistudio.google.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+      "country": "SA",
+      "visitedAt": "2026-09-22T00:47:29.668Z"
+    }
+  ],
+  "analyticsDaily": [
+    {
+      "id": 1,
+      "siteId": 1,
+      "date": "2026-09-15",
+      "views": 320,
+      "uniqueVisitors": 210,
+      "requestsCount": 8
+    },
+    {
+      "id": 2,
+      "siteId": 1,
+      "date": "2026-09-16",
+      "views": 410,
+      "uniqueVisitors": 290,
+      "requestsCount": 12
+    },
+    {
+      "id": 3,
+      "siteId": 1,
+      "date": "2026-09-17",
+      "views": 490,
+      "uniqueVisitors": 340,
+      "requestsCount": 15
+    },
+    {
+      "id": 4,
+      "siteId": 1,
+      "date": "2026-09-18",
+      "views": 560,
+      "uniqueVisitors": 395,
+      "requestsCount": 18
+    },
+    {
+      "id": 5,
+      "siteId": 1,
+      "date": "2026-09-19",
+      "views": 630,
+      "uniqueVisitors": 450,
+      "requestsCount": 22
+    },
+    {
+      "id": 6,
+      "siteId": 1,
+      "date": "2026-09-22",
+      "views": 1,
+      "uniqueVisitors": 1,
+      "requestsCount": 0
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "siteId": 1,
+      "name": "محمد القرني",
+      "email": "m.qarni@example.com",
+      "phone": "+966551122334",
+      "subject": "استفسار عن المقابلات الشرعية",
+      "content": "السلام عليكم، هل المقابلات تتم داخل المكتب أم عبر مكالمة مع ولي الأمر؟ جزاكم الله خيراً.",
+      "isRead": false,
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    }
+  ],
+  "domains": [
+    {
+      "id": 1,
+      "siteId": 1,
+      "domainName": "altawfeeq.sa",
+      "status": "verified",
+      "verifiedAt": "2026-09-20T01:47:26.806Z",
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    }
+  ],
+  "mediaAssets": [],
+  "wallets": [
+    {
+      "id": 1,
+      "userId": 2,
+      "balance": "450.00",
+      "currency": "USD",
+      "updatedAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "balance": "0.00",
+      "currency": "USD",
+      "updatedAt": "2026-09-20T01:57:21.429Z"
+    },
+    {
+      "id": 3,
+      "userId": 4,
+      "balance": "0.00",
+      "currency": "USD",
+      "updatedAt": "2026-09-20T01:57:38.982Z"
+    },
+    {
+      "id": 4,
+      "userId": 5,
+      "balance": "0.00",
+      "currency": "USD",
+      "updatedAt": "2026-09-20T01:58:15.509Z"
+    },
+    {
+      "id": 5,
+      "userId": 6,
+      "balance": "0.00",
+      "currency": "USD",
+      "updatedAt": "2026-09-20T01:58:47.660Z"
+    },
+    {
+      "id": 6,
+      "userId": 7,
+      "balance": "100.00",
+      "currency": "USD",
+      "updatedAt": "2026-09-20T02:12:35.599Z"
+    },
+    {
+      "id": 7,
+      "userId": 9991,
+      "balance": "325.00",
+      "currency": "USD",
+      "updatedAt": "2026-09-22T01:03:59.078Z"
+    }
+  ],
+  "walletTransactions": [
+    {
+      "id": 1,
+      "walletId": 7,
+      "amount": "150.00",
+      "type": "deposit",
+      "description": "إيداع معتمد من الإدارة (bank_transfer)",
+      "referenceId": "TEST-TX-101",
+      "createdAt": "2026-09-22T01:03:59.065Z"
+    },
+    {
+      "id": 2,
+      "walletId": 7,
+      "amount": "200.00",
+      "type": "admin_credit",
+      "description": "إضافة رصيد إدارية: مكافأة ترويجية للمكتب",
+      "referenceId": "ADM-CR-MUBZ0Y8U",
+      "createdAt": "2026-09-22T01:03:59.070Z"
+    },
+    {
+      "id": 3,
+      "walletId": 7,
+      "amount": "-50.00",
+      "type": "admin_debit",
+      "description": "خصم رصيد إداري: رسوم خدمات إضافية",
+      "referenceId": "ADM-DB-MUBZ0Y8V",
+      "createdAt": "2026-09-22T01:03:59.071Z"
+    },
+    {
+      "id": 4,
+      "walletId": 7,
+      "amount": "-100.00",
+      "type": "purchase",
+      "description": "رسوم تجريبية قابلة للاسترداد",
+      "referenceId": "PUR-MUBZ0Y8W",
+      "createdAt": "2026-09-22T01:03:59.072Z"
+    },
+    {
+      "id": 5,
+      "walletId": 7,
+      "amount": "100.00",
+      "type": "refund",
+      "description": "استرداد العملية #4: إلغاء الترخيص بطلب العميل",
+      "referenceId": "REFUND-4",
+      "createdAt": "2026-09-22T01:03:59.073Z"
+    },
+    {
+      "id": 6,
+      "walletId": 7,
+      "amount": "10.00",
+      "type": "admin_credit",
+      "description": "إضافة رصيد إدارية: إيداع متزامن #0",
+      "referenceId": "ADM-CR-MUBZ0Y8Y",
+      "createdAt": "2026-09-22T01:03:59.074Z"
+    },
+    {
+      "id": 7,
+      "walletId": 7,
+      "amount": "-5.00",
+      "type": "admin_debit",
+      "description": "خصم رصيد إداري: خصم متزامن #0",
+      "referenceId": "ADM-DB-MUBZ0Y8Z",
+      "createdAt": "2026-09-22T01:03:59.075Z"
+    },
+    {
+      "id": 8,
+      "walletId": 7,
+      "amount": "10.00",
+      "type": "admin_credit",
+      "description": "إضافة رصيد إدارية: إيداع متزامن #1",
+      "referenceId": "ADM-CR-MUBZ0Y8Z",
+      "createdAt": "2026-09-22T01:03:59.075Z"
+    },
+    {
+      "id": 9,
+      "walletId": 7,
+      "amount": "-5.00",
+      "type": "admin_debit",
+      "description": "خصم رصيد إداري: خصم متزامن #1",
+      "referenceId": "ADM-DB-MUBZ0Y90",
+      "createdAt": "2026-09-22T01:03:59.076Z"
+    },
+    {
+      "id": 10,
+      "walletId": 7,
+      "amount": "10.00",
+      "type": "admin_credit",
+      "description": "إضافة رصيد إدارية: إيداع متزامن #2",
+      "referenceId": "ADM-CR-MUBZ0Y90",
+      "createdAt": "2026-09-22T01:03:59.076Z"
+    },
+    {
+      "id": 11,
+      "walletId": 7,
+      "amount": "-5.00",
+      "type": "admin_debit",
+      "description": "خصم رصيد إداري: خصم متزامن #2",
+      "referenceId": "ADM-DB-MUBZ0Y91",
+      "createdAt": "2026-09-22T01:03:59.077Z"
+    },
+    {
+      "id": 12,
+      "walletId": 7,
+      "amount": "10.00",
+      "type": "admin_credit",
+      "description": "إضافة رصيد إدارية: إيداع متزامن #3",
+      "referenceId": "ADM-CR-MUBZ0Y91",
+      "createdAt": "2026-09-22T01:03:59.077Z"
+    },
+    {
+      "id": 13,
+      "walletId": 7,
+      "amount": "-5.00",
+      "type": "admin_debit",
+      "description": "خصم رصيد إداري: خصم متزامن #3",
+      "referenceId": "ADM-DB-MUBZ0Y92",
+      "createdAt": "2026-09-22T01:03:59.077Z"
+    },
+    {
+      "id": 14,
+      "walletId": 7,
+      "amount": "10.00",
+      "type": "admin_credit",
+      "description": "إضافة رصيد إدارية: إيداع متزامن #4",
+      "referenceId": "ADM-CR-MUBZ0Y92",
+      "createdAt": "2026-09-22T01:03:59.078Z"
+    },
+    {
+      "id": 15,
+      "walletId": 7,
+      "amount": "-5.00",
+      "type": "admin_debit",
+      "description": "خصم رصيد إداري: خصم متزامن #4",
+      "referenceId": "ADM-DB-MUBZ0Y92",
+      "createdAt": "2026-09-22T01:03:59.078Z"
+    }
+  ],
+  "walletDepositRequests": [
+    {
+      "id": 3,
+      "userId": 9991,
+      "amount": "500.00",
+      "currency": "USD",
+      "paymentMethod": "bank_transfer",
+      "proofImage": null,
+      "txHash": "FAKE-TX-999",
+      "status": "rejected",
+      "notes": "إيداع مرفوض تجريبي",
+      "rejectReason": "الحوالة غير مطابقة",
+      "approvedAt": null,
+      "approvedBy": null,
+      "rejectedAt": "2026-09-22T01:03:59.068Z",
+      "rejectedBy": 9992,
+      "cancelledAt": null,
+      "createdAt": "2026-09-22T01:03:59.067Z"
+    },
+    {
+      "id": 2,
+      "userId": 9991,
+      "amount": "150.00",
+      "currency": "USD",
+      "paymentMethod": "bank_transfer",
+      "proofImage": null,
+      "txHash": "TEST-TX-101",
+      "status": "approved",
+      "notes": "إيداع تجريبي للاختبار",
+      "rejectReason": null,
+      "approvedAt": "2026-09-22T01:03:59.065Z",
+      "approvedBy": 9992,
+      "rejectedAt": null,
+      "rejectedBy": null,
+      "cancelledAt": null,
+      "createdAt": "2026-09-22T01:03:59.064Z"
+    },
+    {
+      "id": 1,
+      "userId": 7,
+      "amount": "100.00",
+      "currency": "USD",
+      "paymentMethod": "credit_card",
+      "proofImage": null,
+      "txHash": "TXID-mu96lh8v",
+      "status": "approved",
+      "notes": "شحن رصيد مباشر",
+      "createdAt": "2026-09-20T02:12:35.599Z"
+    }
+  ],
+  "currencyRates": [
+    {
+      "id": 1,
+      "code": "SAR",
+      "nameAr": "ريال سعودي",
+      "rateToUSD": "3.75",
+      "symbol": "ر.س",
+      "updatedAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 2,
+      "code": "AED",
+      "nameAr": "درهم إماراتي",
+      "rateToUSD": "3.67",
+      "symbol": "د.إ",
+      "updatedAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 3,
+      "code": "KWD",
+      "nameAr": "دينار كويتي",
+      "rateToUSD": "0.31",
+      "symbol": "د.ك",
+      "updatedAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 4,
+      "code": "EGP",
+      "nameAr": "جنيه مصري",
+      "rateToUSD": "48.50",
+      "symbol": "ج.م",
+      "updatedAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 5,
+      "code": "USD",
+      "nameAr": "دولار أمريكي",
+      "rateToUSD": "1.00",
+      "symbol": "$",
+      "updatedAt": "2026-09-20T01:47:26.806Z"
+    }
+  ],
+  "currencyExchangeTransactions": [],
+  "purchaseRequests": [],
+  "sitePurchases": [
+    {
+      "id": 1,
+      "siteId": 1,
+      "userId": 2,
+      "amountPaid": "299.00",
+      "currency": "USD",
+      "purchasedAt": "2026-09-20T01:47:26.806Z",
+      "expiresAt": null,
+      "tier": "lifetime"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "id": 1,
+      "code": "usdt_trc20",
+      "titleAr": "العملات الرقمية USDT (TRC-20)",
+      "detailsAr": "عنوان المحفظة: TMadarBureauMarriageSecure98218847X",
+      "isActive": true,
+      "instructions": "يرجى تحويل المبلغ الدقيق وإرفاق صورة الإيصال أو الهاش (TxID)"
+    },
+    {
+      "id": 2,
+      "code": "bank_transfer",
+      "titleAr": "تحويل بنكي مباشر (الراجحي / الأهلي)",
+      "detailsAr": "IBAN: SA0380000201827461947261 - باسم شركة مدار لتقنية المعلومات",
+      "isActive": true,
+      "instructions": "يتم تأكيد التحويل المالي وتفعيل الموقع خلال أقل من ساعة"
+    }
+  ],
+  "platformSettings": [
+    {
+      "id": 1,
+      "keyName": "lifetime_site_price",
+      "keyValue": "299.00",
+      "description": "سعر شراء موقع المكتب مدى الحياة"
+    },
+    {
+      "id": 2,
+      "keyName": "monthly_maintenance_fee",
+      "keyValue": "0.00",
+      "description": "رسوم الصيانة الشهرية"
+    },
+    {
+      "id": 3,
+      "keyName": "support_whatsapp",
+      "keyValue": "+966500000000",
+      "description": "واتساب الدعم الفني للمنصة"
+    }
+  ],
+  "platformRevenue": [
+    {
+      "id": 1,
+      "source": "شراء موقع مكتب زواج",
+      "amount": "299.00",
+      "currency": "USD",
+      "siteId": 1,
+      "userId": 2,
+      "recordedAt": "2026-09-20T01:47:26.806Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 39,
+      "userId": 9991,
+      "title": "خصم رصيد من إدارة المنصة",
+      "message": "تم خصم مبلغ 5.00$ من محفظتك. السبب: خصم متزامن #4. رصيدك المتبقي: 325.00$.",
+      "type": "warning",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.078Z"
+    },
+    {
+      "id": 38,
+      "userId": 9991,
+      "title": "إضافة رصيد من إدارة المنصة",
+      "message": "تمت إضافة مبلغ 10.00$ إلى محفظتك. السبب: إيداع متزامن #4. رصيدك الجديد: 330.00$.",
+      "type": "info",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.078Z"
+    },
+    {
+      "id": 37,
+      "userId": 9991,
+      "title": "خصم رصيد من إدارة المنصة",
+      "message": "تم خصم مبلغ 5.00$ من محفظتك. السبب: خصم متزامن #3. رصيدك المتبقي: 320.00$.",
+      "type": "warning",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.077Z"
+    },
+    {
+      "id": 36,
+      "userId": 9991,
+      "title": "إضافة رصيد من إدارة المنصة",
+      "message": "تمت إضافة مبلغ 10.00$ إلى محفظتك. السبب: إيداع متزامن #3. رصيدك الجديد: 325.00$.",
+      "type": "info",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.077Z"
+    },
+    {
+      "id": 35,
+      "userId": 9991,
+      "title": "خصم رصيد من إدارة المنصة",
+      "message": "تم خصم مبلغ 5.00$ من محفظتك. السبب: خصم متزامن #2. رصيدك المتبقي: 315.00$.",
+      "type": "warning",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.077Z"
+    },
+    {
+      "id": 34,
+      "userId": 9991,
+      "title": "إضافة رصيد من إدارة المنصة",
+      "message": "تمت إضافة مبلغ 10.00$ إلى محفظتك. السبب: إيداع متزامن #2. رصيدك الجديد: 320.00$.",
+      "type": "info",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.076Z"
+    },
+    {
+      "id": 33,
+      "userId": 9991,
+      "title": "خصم رصيد من إدارة المنصة",
+      "message": "تم خصم مبلغ 5.00$ من محفظتك. السبب: خصم متزامن #1. رصيدك المتبقي: 310.00$.",
+      "type": "warning",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.076Z"
+    },
+    {
+      "id": 32,
+      "userId": 9991,
+      "title": "إضافة رصيد من إدارة المنصة",
+      "message": "تمت إضافة مبلغ 10.00$ إلى محفظتك. السبب: إيداع متزامن #1. رصيدك الجديد: 315.00$.",
+      "type": "info",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.075Z"
+    },
+    {
+      "id": 31,
+      "userId": 9991,
+      "title": "خصم رصيد من إدارة المنصة",
+      "message": "تم خصم مبلغ 5.00$ من محفظتك. السبب: خصم متزامن #0. رصيدك المتبقي: 305.00$.",
+      "type": "warning",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.075Z"
+    },
+    {
+      "id": 30,
+      "userId": 9991,
+      "title": "إضافة رصيد من إدارة المنصة",
+      "message": "تمت إضافة مبلغ 10.00$ إلى محفظتك. السبب: إيداع متزامن #0. رصيدك الجديد: 310.00$.",
+      "type": "info",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.074Z"
+    },
+    {
+      "id": 29,
+      "userId": 9991,
+      "title": "استرداد مالي إلى محفظتك",
+      "message": "تمت معالجة استرداد مالي بمبلغ 100.00$ للعملية #4. السبب: إلغاء الترخيص بطلب العميل. رصيدك الحالي: 300.00$.",
+      "type": "success",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.073Z"
+    },
+    {
+      "id": 28,
+      "userId": 9991,
+      "title": "خصم رصيد من إدارة المنصة",
+      "message": "تم خصم مبلغ 50.00$ من محفظتك. السبب: رسوم خدمات إضافية. رصيدك المتبقي: 300.00$.",
+      "type": "warning",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.071Z"
+    },
+    {
+      "id": 27,
+      "userId": 9991,
+      "title": "إضافة رصيد من إدارة المنصة",
+      "message": "تمت إضافة مبلغ 200.00$ إلى محفظتك. السبب: مكافأة ترويجية للمكتب. رصيدك الجديد: 350.00$.",
+      "type": "info",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.070Z"
+    },
+    {
+      "id": 26,
+      "userId": 9991,
+      "title": "تم رفض طلب إيداع الرصيد",
+      "message": "تعذر اعتماد طلب الإيداع بمبلغ 500.00$. السبب: الحوالة غير مطابقة",
+      "type": "deposit_rejected",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.068Z"
+    },
+    {
+      "id": 25,
+      "userId": 9992,
+      "title": "طلب إيداع رصيد بانتظار المراجعة والاعتماد",
+      "message": "قدم المستخدم #9991 (مستخدم تجريبي للمحفظة) طلب إيداع بمبلغ 500.00$ عبر bank_transfer. المرجع: FAKE-TX-999",
+      "type": "deposit_pending",
+      "isRead": false,
+      "link": "/admin?tab=portfolios",
+      "createdAt": "2026-09-22T01:03:59.067Z"
+    },
+    {
+      "id": 24,
+      "userId": 1,
+      "title": "طلب إيداع رصيد بانتظار المراجعة والاعتماد",
+      "message": "قدم المستخدم #9991 (مستخدم تجريبي للمحفظة) طلب إيداع بمبلغ 500.00$ عبر bank_transfer. المرجع: FAKE-TX-999",
+      "type": "deposit_pending",
+      "isRead": false,
+      "link": "/admin?tab=portfolios",
+      "createdAt": "2026-09-22T01:03:59.067Z"
+    },
+    {
+      "id": 23,
+      "userId": 9991,
+      "title": "تم اعتماد إيداع الرصيد بنجاح",
+      "message": "تم التحقق من الحوالة وإيداع مبلغ 150.00$ في محفظتك بنجاح. رصيدك الحالي: 150.00$.",
+      "type": "deposit_approved",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T01:03:59.065Z"
+    },
+    {
+      "id": 22,
+      "userId": 9992,
+      "title": "طلب إيداع رصيد بانتظار المراجعة والاعتماد",
+      "message": "قدم المستخدم #9991 (مستخدم تجريبي للمحفظة) طلب إيداع بمبلغ 150.00$ عبر bank_transfer. المرجع: TEST-TX-101",
+      "type": "deposit_pending",
+      "isRead": false,
+      "link": "/admin?tab=portfolios",
+      "createdAt": "2026-09-22T01:03:59.064Z"
+    },
+    {
+      "id": 21,
+      "userId": 1,
+      "title": "طلب إيداع رصيد بانتظار المراجعة والاعتماد",
+      "message": "قدم المستخدم #9991 (مستخدم تجريبي للمحفظة) طلب إيداع بمبلغ 150.00$ عبر bank_transfer. المرجع: TEST-TX-101",
+      "type": "deposit_pending",
+      "isRead": false,
+      "link": "/admin?tab=portfolios",
+      "createdAt": "2026-09-22T01:03:59.064Z"
+    },
+    {
+      "id": 20,
+      "userId": 9991,
+      "title": "خصم رصيد من إدارة المنصة",
+      "message": "تم خصم مبلغ 5.00$ من محفظتك. السبب: خصم متزامن #4. رصيدك المتبقي: 325.00$.",
+      "type": "warning",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.759Z"
+    },
+    {
+      "id": 19,
+      "userId": 9991,
+      "title": "إضافة رصيد من إدارة المنصة",
+      "message": "تمت إضافة مبلغ 10.00$ إلى محفظتك. السبب: إيداع متزامن #4. رصيدك الجديد: 330.00$.",
+      "type": "info",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.758Z"
+    },
+    {
+      "id": 18,
+      "userId": 9991,
+      "title": "خصم رصيد من إدارة المنصة",
+      "message": "تم خصم مبلغ 5.00$ من محفظتك. السبب: خصم متزامن #3. رصيدك المتبقي: 320.00$.",
+      "type": "warning",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.758Z"
+    },
+    {
+      "id": 17,
+      "userId": 9991,
+      "title": "إضافة رصيد من إدارة المنصة",
+      "message": "تمت إضافة مبلغ 10.00$ إلى محفظتك. السبب: إيداع متزامن #3. رصيدك الجديد: 325.00$.",
+      "type": "info",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.757Z"
+    },
+    {
+      "id": 16,
+      "userId": 9991,
+      "title": "خصم رصيد من إدارة المنصة",
+      "message": "تم خصم مبلغ 5.00$ من محفظتك. السبب: خصم متزامن #2. رصيدك المتبقي: 315.00$.",
+      "type": "warning",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.757Z"
+    },
+    {
+      "id": 15,
+      "userId": 9991,
+      "title": "إضافة رصيد من إدارة المنصة",
+      "message": "تمت إضافة مبلغ 10.00$ إلى محفظتك. السبب: إيداع متزامن #2. رصيدك الجديد: 320.00$.",
+      "type": "info",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.757Z"
+    },
+    {
+      "id": 14,
+      "userId": 9991,
+      "title": "خصم رصيد من إدارة المنصة",
+      "message": "تم خصم مبلغ 5.00$ من محفظتك. السبب: خصم متزامن #1. رصيدك المتبقي: 310.00$.",
+      "type": "warning",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.756Z"
+    },
+    {
+      "id": 13,
+      "userId": 9991,
+      "title": "إضافة رصيد من إدارة المنصة",
+      "message": "تمت إضافة مبلغ 10.00$ إلى محفظتك. السبب: إيداع متزامن #1. رصيدك الجديد: 315.00$.",
+      "type": "info",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.756Z"
+    },
+    {
+      "id": 12,
+      "userId": 9991,
+      "title": "خصم رصيد من إدارة المنصة",
+      "message": "تم خصم مبلغ 5.00$ من محفظتك. السبب: خصم متزامن #0. رصيدك المتبقي: 305.00$.",
+      "type": "warning",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.755Z"
+    },
+    {
+      "id": 11,
+      "userId": 9991,
+      "title": "إضافة رصيد من إدارة المنصة",
+      "message": "تمت إضافة مبلغ 10.00$ إلى محفظتك. السبب: إيداع متزامن #0. رصيدك الجديد: 310.00$.",
+      "type": "info",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.755Z"
+    },
+    {
+      "id": 10,
+      "userId": 9991,
+      "title": "استرداد مالي إلى محفظتك",
+      "message": "تمت معالجة استرداد مالي بمبلغ 100.00$ للعملية #4. السبب: إلغاء الترخيص بطلب العميل. رصيدك الحالي: 300.00$.",
+      "type": "success",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.754Z"
+    },
+    {
+      "id": 9,
+      "userId": 9991,
+      "title": "خصم رصيد من إدارة المنصة",
+      "message": "تم خصم مبلغ 50.00$ من محفظتك. السبب: رسوم خدمات إضافية. رصيدك المتبقي: 300.00$.",
+      "type": "warning",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.753Z"
+    },
+    {
+      "id": 8,
+      "userId": 9991,
+      "title": "إضافة رصيد من إدارة المنصة",
+      "message": "تمت إضافة مبلغ 200.00$ إلى محفظتك. السبب: مكافأة ترويجية للمكتب. رصيدك الجديد: 350.00$.",
+      "type": "info",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.752Z"
+    },
+    {
+      "id": 7,
+      "userId": 9991,
+      "title": "تم رفض طلب إيداع الرصيد",
+      "message": "تعذر اعتماد طلب الإيداع بمبلغ 500.00$. السبب: الحوالة غير مطابقة",
+      "type": "deposit_rejected",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.750Z"
+    },
+    {
+      "id": 6,
+      "userId": 9992,
+      "title": "طلب إيداع رصيد بانتظار المراجعة والاعتماد",
+      "message": "قدم المستخدم #9991 (مستخدم تجريبي للمحفظة) طلب إيداع بمبلغ 500.00$ عبر bank_transfer. المرجع: FAKE-TX-999",
+      "type": "deposit_pending",
+      "isRead": false,
+      "link": "/admin?tab=portfolios",
+      "createdAt": "2026-09-22T00:48:09.750Z"
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "title": "طلب إيداع رصيد بانتظار المراجعة والاعتماد",
+      "message": "قدم المستخدم #9991 (مستخدم تجريبي للمحفظة) طلب إيداع بمبلغ 500.00$ عبر bank_transfer. المرجع: FAKE-TX-999",
+      "type": "deposit_pending",
+      "isRead": false,
+      "link": "/admin?tab=portfolios",
+      "createdAt": "2026-09-22T00:48:09.750Z"
+    },
+    {
+      "id": 4,
+      "userId": 9991,
+      "title": "تم اعتماد إيداع الرصيد بنجاح",
+      "message": "تم التحقق من الحوالة وإيداع مبلغ 150.00$ في محفظتك بنجاح. رصيدك الحالي: 150.00$.",
+      "type": "deposit_approved",
+      "isRead": false,
+      "link": "/dashboard?tab=wallet",
+      "createdAt": "2026-09-22T00:48:09.748Z"
+    },
+    {
+      "id": 3,
+      "userId": 9992,
+      "title": "طلب إيداع رصيد بانتظار المراجعة والاعتماد",
+      "message": "قدم المستخدم #9991 (مستخدم تجريبي للمحفظة) طلب إيداع بمبلغ 150.00$ عبر bank_transfer. المرجع: TEST-TX-101",
+      "type": "deposit_pending",
+      "isRead": false,
+      "link": "/admin?tab=portfolios",
+      "createdAt": "2026-09-22T00:48:09.747Z"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "طلب إيداع رصيد بانتظار المراجعة والاعتماد",
+      "message": "قدم المستخدم #9991 (مستخدم تجريبي للمحفظة) طلب إيداع بمبلغ 150.00$ عبر bank_transfer. المرجع: TEST-TX-101",
+      "type": "deposit_pending",
+      "isRead": false,
+      "link": "/admin?tab=portfolios",
+      "createdAt": "2026-09-22T00:48:09.747Z"
+    },
+    {
+      "id": 1,
+      "userId": 2,
+      "title": "طلب زواج جديد من الرياض",
+      "message": "قام المتقدم (عبدالله س.) بتقديم استمارة رغبة في الزواج، يرجى مراجعة الشروط والمطابقة.",
+      "type": "marriage_request",
+      "isRead": false,
+      "link": "/dashboard?tab=requests",
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": 1,
+      "userId": 1,
+      "action": "system_initialized",
+      "details": "تم إطلاق منصة مدار لمكاتب الزواج بنجاح",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 2,
+      "userId": 9991,
+      "action": "SUBMIT_DEPOSIT_REQUEST",
+      "details": "تقديم طلب إيداع #2 بمبلغ 150.00$ عبر bank_transfer",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.747Z"
+    },
+    {
+      "id": 3,
+      "userId": 9992,
+      "action": "APPROVE_DEPOSIT",
+      "details": "اعتماد طلب إيداع #2 للمستخدم #9991 بمبلغ 150.00$ - الرصيد الجديد: 150.00$",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.748Z"
+    },
+    {
+      "id": 4,
+      "userId": 9991,
+      "action": "SUBMIT_DEPOSIT_REQUEST",
+      "details": "تقديم طلب إيداع #3 بمبلغ 500.00$ عبر bank_transfer",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.750Z"
+    },
+    {
+      "id": 5,
+      "userId": 9992,
+      "action": "REJECT_DEPOSIT",
+      "details": "رفض طلب إيداع #3 للمستخدم #9991 بمبلغ 500.00$. السبب: الحوالة غير مطابقة",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.750Z"
+    },
+    {
+      "id": 6,
+      "userId": 9992,
+      "action": "ADMIN_CREDIT",
+      "details": "إضافة رصيد للمحفظة #7 (المستخدم #9991) بمبلغ 200.00$ - السبب: مكافأة ترويجية للمكتب",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.752Z"
+    },
+    {
+      "id": 7,
+      "userId": 9992,
+      "action": "ADMIN_DEBIT",
+      "details": "خصم رصيد من المحفظة #7 (المستخدم #9991) بمبلغ 50.00$ - السبب: رسوم خدمات إضافية",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.753Z"
+    },
+    {
+      "id": 8,
+      "userId": 9992,
+      "action": "REFUND_TRANSACTION",
+      "details": "استرداد مالي للعملية #4 بمبلغ 100.00$ - السبب: إلغاء الترخيص بطلب العميل",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.754Z"
+    },
+    {
+      "id": 9,
+      "userId": 9992,
+      "action": "ADMIN_CREDIT",
+      "details": "إضافة رصيد للمحفظة #7 (المستخدم #9991) بمبلغ 10.00$ - السبب: إيداع متزامن #0",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.755Z"
+    },
+    {
+      "id": 10,
+      "userId": 9992,
+      "action": "ADMIN_DEBIT",
+      "details": "خصم رصيد من المحفظة #7 (المستخدم #9991) بمبلغ 5.00$ - السبب: خصم متزامن #0",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.755Z"
+    },
+    {
+      "id": 11,
+      "userId": 9992,
+      "action": "ADMIN_CREDIT",
+      "details": "إضافة رصيد للمحفظة #7 (المستخدم #9991) بمبلغ 10.00$ - السبب: إيداع متزامن #1",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.756Z"
+    },
+    {
+      "id": 12,
+      "userId": 9992,
+      "action": "ADMIN_DEBIT",
+      "details": "خصم رصيد من المحفظة #7 (المستخدم #9991) بمبلغ 5.00$ - السبب: خصم متزامن #1",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.756Z"
+    },
+    {
+      "id": 13,
+      "userId": 9992,
+      "action": "ADMIN_CREDIT",
+      "details": "إضافة رصيد للمحفظة #7 (المستخدم #9991) بمبلغ 10.00$ - السبب: إيداع متزامن #2",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.757Z"
+    },
+    {
+      "id": 14,
+      "userId": 9992,
+      "action": "ADMIN_DEBIT",
+      "details": "خصم رصيد من المحفظة #7 (المستخدم #9991) بمبلغ 5.00$ - السبب: خصم متزامن #2",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.757Z"
+    },
+    {
+      "id": 15,
+      "userId": 9992,
+      "action": "ADMIN_CREDIT",
+      "details": "إضافة رصيد للمحفظة #7 (المستخدم #9991) بمبلغ 10.00$ - السبب: إيداع متزامن #3",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.757Z"
+    },
+    {
+      "id": 16,
+      "userId": 9992,
+      "action": "ADMIN_DEBIT",
+      "details": "خصم رصيد من المحفظة #7 (المستخدم #9991) بمبلغ 5.00$ - السبب: خصم متزامن #3",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.758Z"
+    },
+    {
+      "id": 17,
+      "userId": 9992,
+      "action": "ADMIN_CREDIT",
+      "details": "إضافة رصيد للمحفظة #7 (المستخدم #9991) بمبلغ 10.00$ - السبب: إيداع متزامن #4",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.758Z"
+    },
+    {
+      "id": 18,
+      "userId": 9992,
+      "action": "ADMIN_DEBIT",
+      "details": "خصم رصيد من المحفظة #7 (المستخدم #9991) بمبلغ 5.00$ - السبب: خصم متزامن #4",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T00:48:09.759Z"
+    },
+    {
+      "id": 19,
+      "userId": 9991,
+      "action": "SUBMIT_DEPOSIT_REQUEST",
+      "details": "تقديم طلب إيداع #2 بمبلغ 150.00$ عبر bank_transfer",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.064Z"
+    },
+    {
+      "id": 20,
+      "userId": 9992,
+      "action": "APPROVE_DEPOSIT",
+      "details": "اعتماد طلب إيداع #2 للمستخدم #9991 بمبلغ 150.00$ - الرصيد الجديد: 150.00$",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.065Z"
+    },
+    {
+      "id": 21,
+      "userId": 9991,
+      "action": "SUBMIT_DEPOSIT_REQUEST",
+      "details": "تقديم طلب إيداع #3 بمبلغ 500.00$ عبر bank_transfer",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.067Z"
+    },
+    {
+      "id": 22,
+      "userId": 9992,
+      "action": "REJECT_DEPOSIT",
+      "details": "رفض طلب إيداع #3 للمستخدم #9991 بمبلغ 500.00$. السبب: الحوالة غير مطابقة",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.068Z"
+    },
+    {
+      "id": 23,
+      "userId": 9992,
+      "action": "ADMIN_CREDIT",
+      "details": "إضافة رصيد للمحفظة #7 (المستخدم #9991) بمبلغ 200.00$ - السبب: مكافأة ترويجية للمكتب",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.070Z"
+    },
+    {
+      "id": 24,
+      "userId": 9992,
+      "action": "ADMIN_DEBIT",
+      "details": "خصم رصيد من المحفظة #7 (المستخدم #9991) بمبلغ 50.00$ - السبب: رسوم خدمات إضافية",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.071Z"
+    },
+    {
+      "id": 25,
+      "userId": 9992,
+      "action": "REFUND_TRANSACTION",
+      "details": "استرداد مالي للعملية #4 بمبلغ 100.00$ - السبب: إلغاء الترخيص بطلب العميل",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.073Z"
+    },
+    {
+      "id": 26,
+      "userId": 9992,
+      "action": "ADMIN_CREDIT",
+      "details": "إضافة رصيد للمحفظة #7 (المستخدم #9991) بمبلغ 10.00$ - السبب: إيداع متزامن #0",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.074Z"
+    },
+    {
+      "id": 27,
+      "userId": 9992,
+      "action": "ADMIN_DEBIT",
+      "details": "خصم رصيد من المحفظة #7 (المستخدم #9991) بمبلغ 5.00$ - السبب: خصم متزامن #0",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.075Z"
+    },
+    {
+      "id": 28,
+      "userId": 9992,
+      "action": "ADMIN_CREDIT",
+      "details": "إضافة رصيد للمحفظة #7 (المستخدم #9991) بمبلغ 10.00$ - السبب: إيداع متزامن #1",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.075Z"
+    },
+    {
+      "id": 29,
+      "userId": 9992,
+      "action": "ADMIN_DEBIT",
+      "details": "خصم رصيد من المحفظة #7 (المستخدم #9991) بمبلغ 5.00$ - السبب: خصم متزامن #1",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.076Z"
+    },
+    {
+      "id": 30,
+      "userId": 9992,
+      "action": "ADMIN_CREDIT",
+      "details": "إضافة رصيد للمحفظة #7 (المستخدم #9991) بمبلغ 10.00$ - السبب: إيداع متزامن #2",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.076Z"
+    },
+    {
+      "id": 31,
+      "userId": 9992,
+      "action": "ADMIN_DEBIT",
+      "details": "خصم رصيد من المحفظة #7 (المستخدم #9991) بمبلغ 5.00$ - السبب: خصم متزامن #2",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.077Z"
+    },
+    {
+      "id": 32,
+      "userId": 9992,
+      "action": "ADMIN_CREDIT",
+      "details": "إضافة رصيد للمحفظة #7 (المستخدم #9991) بمبلغ 10.00$ - السبب: إيداع متزامن #3",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.077Z"
+    },
+    {
+      "id": 33,
+      "userId": 9992,
+      "action": "ADMIN_DEBIT",
+      "details": "خصم رصيد من المحفظة #7 (المستخدم #9991) بمبلغ 5.00$ - السبب: خصم متزامن #3",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.077Z"
+    },
+    {
+      "id": 34,
+      "userId": 9992,
+      "action": "ADMIN_CREDIT",
+      "details": "إضافة رصيد للمحفظة #7 (المستخدم #9991) بمبلغ 10.00$ - السبب: إيداع متزامن #4",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.078Z"
+    },
+    {
+      "id": 35,
+      "userId": 9992,
+      "action": "ADMIN_DEBIT",
+      "details": "خصم رصيد من المحفظة #7 (المستخدم #9991) بمبلغ 5.00$ - السبب: خصم متزامن #4",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-09-22T01:03:59.078Z"
+    }
+  ],
+  "marriageRequests": [
+    {
+      "id": 1,
+      "siteId": 1,
+      "fullName": "عبدالله بن سعد المطيري",
+      "gender": "male",
+      "age": 31,
+      "maritalStatus": "single",
+      "city": "الرياض",
+      "nationality": "سعودي",
+      "education": "ماجستير هندسة برمجيات",
+      "job": "مهندس نظم في شركة حكومية كبرى",
+      "height": 178,
+      "weight": 75,
+      "religiousCommitment": "محافظ ومواظب على الصلوات في المسجد",
+      "financialStatus": "ممتاز ولله الحمد، يملك سكناً مستقلاً",
+      "partnerRequirements": "أبحث عن فتاة ذات خلق ودين أصيل، جامعية، عمرها بين 22 و28 سنة، هادئة الطبع، تقدّر الحياة الزوجية والاستقرار الأسري.",
+      "phone": "+966501112233",
+      "email": "a.mutairi@example.com",
+      "preferredContact": "whatsapp",
+      "guardianPhone": "+966509998877",
+      "notes": "مستعد لإتمام الزواج خلال ٤ إلى ٦ أشهر بمشيئة الله.",
+      "photoUrl": "",
+      "termsAccepted": true,
+      "status": "reviewed",
+      "internalNotes": "تم التحقق من بيانات العمل والسمعة، شاب خلوق ومناسب لمطابقة عائلة (آل فلان).",
+      "matchedWithRequestId": null,
+      "createdAt": "2026-09-19T23:47:26.806Z",
+      "updatedAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 2,
+      "siteId": 1,
+      "fullName": "نورة بنت عبدالعزيز الشمري",
+      "gender": "female",
+      "age": 26,
+      "maritalStatus": "single",
+      "city": "الرياض",
+      "nationality": "سعودية",
+      "education": "بكالوريوس تغذية علاجية",
+      "job": "أخصائية تغذية في مستشفى تخصصي",
+      "height": 165,
+      "weight": 58,
+      "religiousCommitment": "ملتزمة بالحجاب الشرعي الكامل ومخافة الله",
+      "financialStatus": "ميسورة وتعمل باستقلالية واعتدال",
+      "partnerRequirements": "أرجو رجلاً صالحاً يخاف الله، لا يدخن، ذو وظيفة مستقرة وسمعة طيبة، يحترم المرأة ويعينها على البر، عمره لا يتجاوز 34 سنة.",
+      "phone": "+966554433221",
+      "email": "noura.a@example.com",
+      "preferredContact": "call",
+      "guardianPhone": "+966505566778",
+      "notes": "التواصل الأولي المباشر عن طريق رقم ولي الأمر الموضح أعلاه.",
+      "photoUrl": "",
+      "termsAccepted": true,
+      "status": "new",
+      "internalNotes": "طلب جديد ومرتب، ولي أمرها جاهز لأي استفسار.",
+      "matchedWithRequestId": null,
+      "createdAt": "2026-09-19T20:47:26.806Z",
+      "updatedAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 3,
+      "siteId": 1,
+      "fullName": "خالد بن ناصر الغامدي",
+      "gender": "male",
+      "age": 38,
+      "maritalStatus": "divorced",
+      "city": "جدة",
+      "nationality": "سعودي",
+      "education": "بكالوريوس إدارة أعمال",
+      "job": "مدير فرع مصرفي",
+      "height": 175,
+      "weight": 80,
+      "religiousCommitment": "معتدل ومحافظ على صلواته",
+      "financialStatus": "مقتدر مادياً ويوفر بيت مستقل مؤثث",
+      "partnerRequirements": "سيدة عاقلة ومتفهمة، سواء كانت بكر أو مطلقة، تدرك معنى الشراكة وبناء عش هادئ، يفضل من الغربية.",
+      "phone": "+966567788990",
+      "email": "khalid.ghamdi@example.com",
+      "preferredContact": "whatsapp",
+      "guardianPhone": "",
+      "notes": "لا توجد أطفال من الزواج السابق، يبحث عن بداية جديدة قائمة على الاحترام.",
+      "photoUrl": "",
+      "termsAccepted": true,
+      "status": "contacted",
+      "internalNotes": "تحدثنا معه هاتفياً وهو جاد جداً وواضح في متطلباته.",
+      "matchedWithRequestId": null,
+      "createdAt": "2026-09-19T01:47:26.806Z",
+      "updatedAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 4,
+      "siteId": 1,
+      "fullName": "سارة بنت فيصل القحطاني",
+      "gender": "female",
+      "age": 29,
+      "maritalStatus": "single",
+      "city": "الخبر",
+      "nationality": "سعودية",
+      "education": "ماجستير تسويق رقمي",
+      "job": "مستشارة تسويق",
+      "height": 162,
+      "weight": 60,
+      "religiousCommitment": "محافظة وواعية",
+      "financialStatus": "ممتاز ومستقل",
+      "partnerRequirements": "شاب طموح وخلوق، يقدّر الطموح والشراكة الفكرية، حاصل على مؤهل جامعي، ويكون حريصاً على صلة الرحم.",
+      "phone": "+966533344455",
+      "email": "sara.qahtani@example.com",
+      "preferredContact": "whatsapp",
+      "guardianPhone": "+966504445566",
+      "notes": "يرجى التنسيق أولاً عبر الواتساب قبل اتصال ولي الأمر.",
+      "photoUrl": "",
+      "termsAccepted": true,
+      "status": "matched",
+      "internalNotes": "تمت المقابلة الشرعية بحضور الأهل وتمت الموافقة المبدئية، مبارك.",
+      "matchedWithRequestId": null,
+      "createdAt": "2026-09-17T01:47:26.806Z",
+      "updatedAt": "2026-09-20T01:47:26.806Z"
+    }
+  ],
+  "successStories": [
+    {
+      "id": 1,
+      "siteId": 1,
+      "title": "بارك الله لهما: خطبة وتوفيق بعد ٣ أشهر من التوافق الدقيق",
+      "story": "بفضل الله ثم بالجهود الحثيثة لمكتب التوفيق وفريق المستشارين، تم التوفيق بين الأخ (م.س) والأخت (ر.ع) بعد فحص دقيق للمعايير والقيم الأسرية المشتركة. نحمد الله على تيسير أمرهما ونسأل الله لهما السعادة والذرية الصالحة.",
+      "brideName": "كريمة الأستاذ (ر.ع)",
+      "groomName": "المهندس (م. س)",
+      "marriageDate": "2026-08-10",
+      "imageUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&q=80",
+      "isPublic": true,
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 2,
+      "siteId": 1,
+      "title": "قصة نجاح وزواج مبارك في مدينة الرياض",
+      "story": "تم عقد قران الأخ (ف. العتيبي) والأخت (س. الدوسري) في أجواء مفعمة بالبهجة. كان التوافق بينهما استثنائياً في الأهداف الحياتية والرؤى المستقبلية. نشكر العائلتين الكريمتين على الثقة العالية.",
+      "brideName": "الأستاذة (س. د)",
+      "groomName": "الأستاذ (ف. ع)",
+      "marriageDate": "2026-07-22",
+      "imageUrl": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&q=80",
+      "isPublic": true,
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 3,
+      "siteId": 1,
+      "title": "زواج الأخ (عمر) والأخت (فاطمة) بجدة",
+      "story": "تقدم الأخ بطلبه مع اشتراطات واضحة حول الاهتمام بالجانب الديني وحفظ القرآن، وبعد بحث ومطابقة وتنسيق رسمي مع الولي تمت الخطبة وتكللت بالزواج الميمون.",
+      "brideName": "فاطمة الكريمة",
+      "groomName": "عمر الفاضل",
+      "marriageDate": "2026-06-15",
+      "imageUrl": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=800&q=80",
+      "isPublic": true,
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "siteId": 1,
+      "title": "الضوابط الشرعية والنفسية لاختيار شريك الحياة",
+      "category": "إرشادات شرعية",
+      "content": "وضع الإسلام معايير واضحة للاختيار، وجعل الدين والخلق الركيزة العظمى في كل اقتران. في هذا المقال نستعرض كيف يوفّق المقبل على الزواج بين الكفاءة الاجتماعية والمادية والاطمئنان القلبي وفق تعاليم نبينا الأكرم ﷺ.",
+      "imageUrl": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?w=800&q=80",
+      "published": true,
+      "views": 1240,
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 2,
+      "siteId": 1,
+      "title": "أهم 10 أسئلة يجب طرحها في جلسة التعارف بحضور ولي الأمر",
+      "category": "نصائح للمقبلين",
+      "content": "جلسة الرؤية الشرعية والتعارف الرسمي ليست مجرد مقابلة عابرة، بل هي حجر الأساس للتفاهم. تعرّف على أهم الأسئلة التي تبين نظرة الطرف الآخر للمسؤولية، الإنفاق، وتربية الأبناء.",
+      "imageUrl": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=800&q=80",
+      "published": true,
+      "views": 980,
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 3,
+      "siteId": 1,
+      "title": "دور المكاتب المعتمدة في تجنب النصب والمشكلات العائلية",
+      "category": "توعية وأمان",
+      "content": "لماذا أصبح اللجوء للمكاتب المرخصة رسمياً من وزارة العدل هو الخيار الأكثر أماناً؟ نسلط الضوء على آليات التثبت من الهويات، فحص المتطلبات وسرية السجلات الأسرية.",
+      "imageUrl": "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=800&q=80",
+      "published": true,
+      "views": 650,
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    }
+  ],
+  "packages": [
+    {
+      "id": 1,
+      "siteId": 1,
+      "name": "الباقة الأساسية (مطابقة معتمدة)",
+      "description": "مناسبة لمن يبحث عن مطابقة أولية وفحص شروط التوافق مع مرشحين متقاربين",
+      "price": "450.00",
+      "currency": "SAR",
+      "features": [
+        "تسجيل الطلب وتدقيق البيانات في السجل السري",
+        "تقديم حتى 3 ترشيحات متوافقة مع شروطك",
+        "التنسيق الأولي للموافقة مع ولي الأمر",
+        "مدة الخدمة ٣ أشهر أو حتى إتمام التوافق"
+      ],
+      "isPopular": false,
+      "sortOrder": 1,
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 2,
+      "siteId": 1,
+      "name": "الباقة الذهبية VIP (الأكثر طلباً)",
+      "description": "رعاية استشارية خاصة ومطابقة دقيقة مع استشارات هاتفية مباشرة وجلسات تهيئة",
+      "price": "950.00",
+      "currency": "SAR",
+      "features": [
+        "أولوية مطلقة في البحث والترشيح الدائم",
+        "عدد ترشيحات غير محدود حتى إتمام التوفيق والزواج",
+        "جلسة استشارية أسرية خاصة مع المستشار الشرعي",
+        "تنسيق كامل لجلسات الرؤية الشرعية والمتابعة الحثيثة",
+        "سرية تامة وتشفير كامل للهويات"
+      ],
+      "isPopular": true,
+      "sortOrder": 2,
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 3,
+      "siteId": 1,
+      "name": "الباقة الملكية الشاملة",
+      "description": "مخصصة للنخب والشخصيات التي تبحث عن خصوصية متناهية وخدمة شاملة حتى حفل الزفاف",
+      "price": "2200.00",
+      "currency": "SAR",
+      "features": [
+        "مستشار شخصي مخصص للتواصل المباشر 24/7",
+        "تحري مجتمعي وبحث دقيق عن السمعة والكفاءة",
+        "تنسيق عقود النكاح المعتمدة وحجز المأذون الشرعي",
+        "خصومات حصرية على قاعات الأفراح واستعدادات العرس"
+      ],
+      "isPopular": false,
+      "sortOrder": 3,
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 4,
+      "siteId": 2,
+      "currency": "SAR",
+      "sortOrder": 1,
+      "createdAt": "2026-09-20T02:05:57.171Z",
+      "name": "الباقة الأساسية",
+      "price": "450.00",
+      "features": [
+        "تسجيل وتدقيق الطلب",
+        "3 ترشيحات متوافقة",
+        "تنسيق أولي مع الولي"
+      ]
+    },
+    {
+      "id": 5,
+      "siteId": 2,
+      "currency": "SAR",
+      "sortOrder": 2,
+      "createdAt": "2026-09-20T02:05:57.171Z",
+      "name": "الباقة الذهبية VIP",
+      "price": "950.00",
+      "features": [
+        "ترشيحات غير محدودة",
+        "أولوية ومتابعة مستمرة",
+        "استشارة أسرية معتمدة"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": 6,
+      "siteId": 2,
+      "currency": "SAR",
+      "sortOrder": 3,
+      "createdAt": "2026-09-20T02:05:57.171Z",
+      "name": "الباقة الشاملة",
+      "price": "2000.00",
+      "features": [
+        "مستشار مخصص 24/7",
+        "تنسيق عقد القران والمأذون",
+        "عناية خاصة بالنخب"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "siteId": 1,
+      "question": "كيف يضمن مكتبكم السرية التامة للمتقدمين والمتقدمات؟",
+      "answer": "نعتمد بروتوكول سرية صارم مصادق عليه؛ لا يتم عرض الاسم الكامل أو أي وسيلة تواصل أو صور إلا بعد موافقة الطرفين وموافقة ولي الأمر الصريحة خطياً أو هاتفياً.",
+      "sortOrder": 1,
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 2,
+      "siteId": 1,
+      "question": "هل المكتب مرخص ومعتمد من الجهات المختصة؟",
+      "answer": "نعم، مكتبنا مرخص رسمياً برقم ترخيص صادر ومسجل، ونعمل وفق القوانين واللوائح المنظمة لخدمات الوساطة الأسرية والزواج الشرعي.",
+      "sortOrder": 2,
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 3,
+      "siteId": 1,
+      "question": "ما هي الخطوات المتبعة بعد تقديم طلب الزواج في الموقع؟",
+      "answer": "١) يتم مراجعة بياناتك والتأكد من مطابقتها. ٢) يتواصل معك مستشار المكتب هاتفياً أو عبر الواتساب لتأكيد الرغبة. ٣) نبدأ بعرض المرشحين المطابقين لمعاييرك بدقة. ٤) بعد القبول المبدئي يتم التنسيق الرسمي مع ولي الأمر للرؤية الشرعية.",
+      "sortOrder": 3,
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 4,
+      "siteId": 1,
+      "question": "هل يمكن التقديم لمن هم خارج المملكة العربية السعودية؟",
+      "answer": "نعم، نقبل الطلبات من دول الخليج والعالم العربي والإسلامي بشرط الجدية التامة والالتزام بضوابط الزواج الشرعي المعتمد.",
+      "sortOrder": 4,
+      "createdAt": "2026-09-20T01:47:26.806Z"
+    },
+    {
+      "id": 5,
+      "siteId": 2,
+      "question": "كيف يتم التحقق من صحة وجدية البيانات؟",
+      "answer": "يتم التواصل مع كل متقدم عبر فريق الفحص والتثبت من ولي الأمر ورقم الهوية.",
+      "sortOrder": 1,
+      "createdAt": "2026-09-20T02:05:57.171Z"
+    },
+    {
+      "id": 6,
+      "siteId": 2,
+      "question": "هل بيانات الخاطب والمخطوبة معلنة للجميع؟",
+      "answer": "كلا، نحن نلتزم بالسرية المطلقة ولا تظهر أي تفاصيل شخصية للعلن.",
+      "sortOrder": 2,
+      "createdAt": "2026-09-20T02:05:57.171Z"
+    },
+    {
+      "id": 7,
+      "siteId": 2,
+      "question": "ما هي مواعيد العمل الرسمية؟",
+      "answer": "من السبت إلى الخميس من 9 ص إلى 9 م.",
+      "sortOrder": 3,
+      "createdAt": "2026-09-20T02:05:57.171Z"
+    }
+  ]
+}
